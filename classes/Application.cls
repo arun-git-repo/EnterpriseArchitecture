@@ -37,7 +37,7 @@ global class Application
 	public class UnitOfWorkFactory
 	{
 		private List<SObjectType> objectTypes;
-
+String Svn;
 		private UnitOfWorkFactory(List<SObjectType> objectTypes)
 		{
 			this.objectTypes = objectTypes;
