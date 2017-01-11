@@ -96,6 +96,13 @@ global class Application
 			return selectById(relatedIds);
 		}
 
+public List<SObject> myDummyMethod(List<SObject> relatedRecords, SObjectField relationshipField)
+	{
+		Set<Id> relatedIds = new Set<Id>();
+		for(SObject relatedRecord : relatedRecords)
+			relatedIds.add((Id) relatedRecord.get(relationshipField));
+		return selectById(relatedIds);
+	}
 		@TestVisible
 		private void setMock(fflib_SObjectSelector selectorInstance)
 		{
