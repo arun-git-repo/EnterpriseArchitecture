@@ -48,7 +48,8 @@ global class Application
 			return new fflib_SObjectUnitOfWork(objectTypes);
 		}
 	}
-
+	public class newClass{
+	}
 	/**
 	 * Class implements a Selector class factory
 	 **/
