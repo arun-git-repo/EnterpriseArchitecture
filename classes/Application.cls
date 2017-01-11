@@ -48,8 +48,16 @@ global class Application
 			return new fflib_SObjectUnitOfWork(objectTypes);
 		}
 	}
+
 	public class newClass{
+	//new class
+	//Added new changes.
 	}
+=======
+public class myDummyClass{
+	
+}
+
 	/**
 	 * Class implements a Selector class factory
 	 **/
