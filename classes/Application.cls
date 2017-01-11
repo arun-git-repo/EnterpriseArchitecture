@@ -52,6 +52,8 @@ global class Application
 	public class newClass{
 	//new class
 	//Added new changes.
+		Private Integer Sno;
+		Private String name;
 	}
 =======
 public class myDummyClass{
