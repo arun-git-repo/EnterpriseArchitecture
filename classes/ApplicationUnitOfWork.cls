@@ -11,4 +11,7 @@ public class ApplicationUnitOfWork extends fflib_SObjectUnitOfWork
 
 	public class ApplicationUnitOfWorkWrapper{
 	}
+	
+	public class ApplicationUnitOfWorkWrapperTwo{
+	}
 }
