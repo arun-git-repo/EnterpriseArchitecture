@@ -15,4 +15,6 @@ public class ApplicationUnitOfWork extends fflib_SObjectUnitOfWork
 	
 	}
 	//Test Comment for TortoiseGit.//
+	public class ApplicationUnitOfWorkWrapper{
+	}
 }
