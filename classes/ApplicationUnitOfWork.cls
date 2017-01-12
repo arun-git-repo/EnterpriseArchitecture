@@ -8,11 +8,4 @@ public class ApplicationUnitOfWork extends fflib_SObjectUnitOfWork
 			  	  Race__c.SObjectType, 
 			  	  Contestant__c.SObjectType });	
 	}
-	public class workerctrl
-	{
-	}
-	public class workerCtrlOne{
-	
-	}
-	//Test Comment for TortoiseGit.//
 }
