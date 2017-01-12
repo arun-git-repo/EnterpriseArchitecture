@@ -9,7 +9,6 @@ public class ApplicationUnitOfWork extends fflib_SObjectUnitOfWork
 			  	  Contestant__c.SObjectType });	
 	}
 
-	//Test Comment for TortoiseGit.//
 	public class ApplicationUnitOfWorkWrapper{
 	}
 }
